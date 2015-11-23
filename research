@@ -1,0 +1,17 @@
+---
+layout: default
+title: Research
+---
+
+		<div class="Research">
+			<h1>Research</h1>
+			<p>A series of articles by “Functional Annotation Of Mammalian genome (FANTOM)” projects, “ENCyclopedia Of DNA Elements (ENCODE)” consortium, and others clearly indicate that a majority of genome is transcribed in the form of RNAs, yet only few percentages of them fall under the category of protein-coding genes. The current estimate is that only ~1.2% of the mammalian genome encodes for protein-coding genes. Previously, such RNAs were discarded as transcriptional noises and experimental errors. However, through the discoveries of microRNAs (miRNAs) and other types of non-coding RNAs (ncRNAs) (e.g. long non-coding RNAs (lncRNAs)), it became clearly evident that RNAs have functions beyond being used as templates for protein expression. The concept of ncRNAs is not new, as ribosomal RNAs (rRNAs) and transfer RNAs (tRNAs) are also not encoding for proteins but are necessary for protein translation. According to the recent survey, there are 16,592 ncRNAs in the human genome. Of which, only 10.5% (1,756) are classified as miRNAs. The rest are much longer ncRNAs, collectively called as “lncRNAs”. These classifications are mainly based on the physical properties of ncRNAs, such as length of nucleotides, distance to a known gene, rather than their functionalities, simply because clear-cut annotations of them are missing. Compared to miRNAs, the functional studies of lncRNAs are very limited. Only a handful of them are studied in details. The well-known ones are Airn, H19, HotAir, lincRNA-p21, and Xist. According to the current understanding, there are various functions implicated for lncRNAs. Of such functions, the most interesting and prominent function is the recruitment of chromatin remodeling complexes. Given that genetic networks are ultimately controlled by epigenetic status of genes and their promoter/enhancer regions, lncRNA-mediate recruitment might shed a light on the “missing link” in the complete understanding of how genes are transcribed into proteins to perform functions necessary for the development of organs and the differentiation of embryonic/adult stem cells into tissue-specific cell types.
+
+In last few years, we have developed a number of bioinformatics tools: “C-It” (Link) for evolutionary-conserved, tissue-enriched, uncharacterized genes; <li><a href="https://github.com/heartlncrna">“SNP4Disease”</a></li> for disease-related and/or -suspected SNPs; “Exon Array Analyzer (EAA)” (Link) for analyzing GeneChip Exon 1.0 ST Arrays (Affymetrix, Inc.); “Gene Array Analyzer (GAA)” (Link) for analyzing GeneChip Gene 1.0 ST Arrays (Affymetrix, Inc.); and “noncoder” (Link) for quantifying the expression changes of lncRNAs from GeneChip Exon 1.0 ST Arrays (Affymetrix, Inc.). Through the installment of benchtop next generation sequencer (Ion Torrent PGM), we aim to further extend our efforts to build bioinformatics tools for scientific communities. Our current focus is to elucidate the functions of lncRNAs in the context of epigenetics using both dry and wet lab techniques.</p>
+
+			<ul class="contacts">
+				<li><a href="#">@TwitterHandle</a></li>
+				<li><a href="#">Your Departmental Webpage</a></li>
+				<li><a href="#">Another site you want to link to</a></li>
+				</ul>
+		</div>
